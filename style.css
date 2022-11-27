@@ -1,0 +1,18 @@
+.heading {
+    font-display: initial;
+    font-size: 20px;
+}
+
+#note {
+    font-size: 13px;
+}
+
+#text {
+    font-size: 20px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
